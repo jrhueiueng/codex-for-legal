@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "codex-for-legal",
+  "version": "1.0.0",
+  "last_updated": "2026-05-19",
+  "total": 12,
+  "categories": [
+    "Legal"
+  ],
+  "plugins": [
+    {
+      "name": "Commercial Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Reviews vendor agreements, NDAs, and SaaS subscriptions against your playbook, tracks renewals and cancel-by deadlines, routes escalations, and translates reviews into stakeholder summaries.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/commercial-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Litigation Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Manages litigation workflows — matter intake, chronology building, deposition prep, claim charts, demand drafts, privilege log review, and subpoena triage.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/litigation-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Privacy Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Handles privacy and data protection — DPA reviews, DSAR responses, PIA generation, policy monitoring, reg gap analysis, and use case triage.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/privacy-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Corporate Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Corporate governance and transactions — board minutes, closing checklists, diligence issue extraction, entity compliance, deal team summaries, and written consents.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/corporate-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Employment Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Employment law workflows — offer letter review, handbook audits, termination analysis, accommodation tracking, and policy compliance.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/employment-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "IP Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Intellectual property workflows — patent landscape analysis, trademark clearance, IP portfolio management, license review, and open source compliance.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/ip-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Regulatory Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Regulatory compliance — regulatory mapping, compliance gap analysis, filing tracking, enforcement monitoring, and regulatory change management.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/regulatory-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Product Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Product counsel workflows — feature compliance reviews, terms of service drafting, user-generated content policies, and marketplace compliance.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/product-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "AI Governance Legal",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "AI governance and responsible AI — model card reviews, AI risk assessments, bias audits, AI vendor due diligence, and AI policy drafting.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/ai-governance-legal/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Legal Clinic",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Legal clinic workflows — client intake, case assessment, advice letters, referral tracking, and clinic operations management.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/legal-clinic/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Law Student",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Law student practice tools — case briefing, outline generation, exam prep, moot court preparation, and legal research training.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/law-student/.codex-plugin/plugin.json"
+    },
+    {
+      "name": "Legal Builder Hub",
+      "url": "https://github.com/jrhueiueng/codex-for-legal",
+      "owner": "jrhueiueng",
+      "repo": "codex-for-legal",
+      "description": "Plugin builder toolkit — templates, validation scripts, and publishing workflows for creating new legal practice area plugins.",
+      "category": "Legal",
+      "source": "codex-for-legal",
+      "install_url": "https://raw.githubusercontent.com/jrhueiueng/codex-for-legal/HEAD/legal-builder-hub/.codex-plugin/plugin.json"
+    }
+  ]
+}
