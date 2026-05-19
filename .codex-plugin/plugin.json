@@ -1,9 +1,0 @@
-{
-  "name": "codex-for-legal",
-  "version": "1.0.0",
-  "description": "A comprehensive legal workflow marketplace with 150 skills across 12 practice areas, ported from Anthropic's claude-for-legal.",
-  "author": {
-    "name": "Anthropic (ported by jrhueiueng)"
-  },
-  "license": "Apache-2.0"
-}
