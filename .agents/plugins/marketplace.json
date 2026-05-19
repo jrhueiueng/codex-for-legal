@@ -1,0 +1,22 @@
+{
+  "name": "codex-for-legal",
+  "interface": {
+    "displayName": "Codex for Legal"
+  },
+  "plugins": [
+    {
+      "name": "codex-for-legal",
+      "displayName": "Codex for Legal",
+      "source": {
+        "source": "local",
+        "path": "./plugins/jrhueiueng/codex-for-legal"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Legal",
+      "description": "A comprehensive suite of 150 legal workflow skills for Codex, ported from Anthropic's claude-for-legal. Covers commercial contracts, litigation, privacy, corporate, employment, IP, regulatory, product counsel, AI governance, legal clinic, law student, and plugin builder workflows."
+    }
+  ]
+}
