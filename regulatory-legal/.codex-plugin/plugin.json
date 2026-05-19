@@ -1,0 +1,12 @@
+{
+  "name": "regulatory-legal",
+  "version": "1.0.0",
+  "description": "Regulatory compliance — regulatory mapping, compliance gap analysis, filing tracking, enforcement monitoring, and regulatory change management.",
+  "author": {
+    "name": "Anthropic (ported from claude-for-legal)"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["legal", "regulatory legal"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "legal-builder-hub",
+  "version": "1.0.0",
+  "description": "Plugin builder toolkit — templates, validation scripts, and publishing workflows for creating new legal practice area plugins.",
+  "author": {
+    "name": "Anthropic (ported from claude-for-legal)"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["legal", "legal builder hub"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ip-legal",
+  "version": "1.0.0",
+  "description": "Intellectual property workflows — patent landscape analysis, trademark clearance, IP portfolio management, license review, and open source compliance.",
+  "author": {
+    "name": "Anthropic (ported from claude-for-legal)"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["legal", "ip legal"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ai-governance-legal",
+  "version": "1.0.0",
+  "description": "AI governance and responsible AI — model card reviews, AI risk assessments, bias audits, AI vendor due diligence, and AI policy drafting.",
+  "author": {
+    "name": "Anthropic (ported from claude-for-legal)"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["legal", "ai governance legal"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

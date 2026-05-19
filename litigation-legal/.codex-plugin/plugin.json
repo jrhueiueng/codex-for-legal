@@ -1,0 +1,12 @@
+{
+  "name": "litigation-legal",
+  "version": "1.0.0",
+  "description": "Manages litigation workflows — matter intake, chronology building, deposition prep, claim charts, demand drafts, privilege log review, and subpoena triage.",
+  "author": {
+    "name": "Anthropic (ported from claude-for-legal)"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["legal", "litigation legal"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

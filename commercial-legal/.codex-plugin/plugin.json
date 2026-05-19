@@ -1,0 +1,12 @@
+{
+  "name": "commercial-legal",
+  "version": "1.0.0",
+  "description": "Reviews vendor agreements, NDAs, and SaaS subscriptions against your playbook, tracks renewals and cancel-by deadlines, routes escalations, and translates reviews into stakeholder summaries.",
+  "author": {
+    "name": "Anthropic (ported from claude-for-legal)"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["legal", "commercial legal"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
